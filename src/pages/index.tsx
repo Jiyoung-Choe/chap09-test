@@ -7,7 +7,7 @@ import { TodoComponent } from '#components/todo/todo'
 export default function Index({ todos }: { todos: Array<Todo> }) {
   return (
     <div>
-      <Title>Hello NextJs!</Title>
+      <Title>Hello NextJsd!</Title>
       <TodoComponent todos={todos} />
     </div>
   )
